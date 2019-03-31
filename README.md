@@ -1,1 +1,1 @@
-# fastai_projects
+## Repo for projects inspired by fast.ai course
